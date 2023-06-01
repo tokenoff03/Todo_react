@@ -18,3 +18,25 @@
 - Miscellaneous working with functions and using React Hooks
 
 ### 📝 Screenshots
+
+### Login Page
+Used localStorage.
+<br>
+<p align="center">
+ <img width="600" src="public/assets/login.png" alt="welcome"/>
+</p>
+
+### Main Page 
+<p align="center">
+ <img width="600" src="public/assets/main.png" alt="welcome"/>
+</p>
+
+### Options(Work,Hobby etc.)
+<p align="center">
+ <img width="600" src="public/assets/work.png" alt="welcome"/>
+</p>
+
+### Sorting 
+<p align="center">
+ <img width="600" src="public/assets/sort.png" alt="welcome"/>
+</p>
