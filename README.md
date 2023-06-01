@@ -36,7 +36,7 @@ Used localStorage.
  <img width="600" src="public/assets/work.png" alt="welcome"/>
 </p>
 
-### Sorting 
+### Sorting and Search
 <p align="center">
  <img width="600" src="public/assets/sort.png" alt="welcome"/>
 </p>
