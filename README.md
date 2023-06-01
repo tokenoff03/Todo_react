@@ -31,12 +31,20 @@ Used localStorage.
  <img width="600" src="public/assets/main.png" alt="welcome"/>
 </p>
 
-### Options(Work,Hobby etc.)
+### Edit
+
 <p align="center">
- <img width="600" src="public/assets/work.png" alt="welcome"/>
+ <img width="600" src="public/assets/changeicon.png" alt="welcome"/>
 </p>
 
-### Sorting and Search
+### How works inputs: 
 <p align="center">
- <img width="600" src="public/assets/sort.png" alt="welcome"/>
+ <img width="600" src="public/assets/doing.png" alt="welcome"/>
 </p>
+
+
+### History:  
+<p align="center">
+ <img width="600" src="public/assets/history.png" alt="welcome"/>
+</p>
+
